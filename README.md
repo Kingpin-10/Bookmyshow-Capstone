@@ -108,29 +108,6 @@ We welcome contributions from the community! If you want to contribute to the pr
 4. Push your changes to your fork: `git push origin feature/your-feature`.
 5. Submit a pull request, explaining your changes and why they should be merged.
 
-## Contributors
-
-This project follows the [all-contributors](https://github.com/Patil-Shrikrishna/alma_cap_bookmyshow) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
-- Shrikrishna Patil
-  | [GitHub](https://github.com/Patil-Shrikrishna)
-  | [LinkedIn](https://www.linkedin.com/in/shrikrishna-patil-1b9101239/)
-  | [YouTube](https://www.youtube.com/@krishnapatil03)
-
-- Sneta Gupta
-  | [GitHub](https://github.com/snetagupta)
-  | [LinkedIn](https://www.linkedin.com/in/sneta-gupta-3062b4155/)
-  | [YouTube](https://www.youtube.com/@Snetagupta)
-
-- Akhilesh Maurya
-  | [GitHub](https://github.com/akhilesh365)
-  | [LinkedIn](https://www.linkedin.com/in/akhilesh-maurya-985078161/)
-  | [YouTube](https://www.youtube.com/@akhileshmaurya2287)
-
-- Lokesh Sharma
-  | [GitHub](https://github.com/lokeshkavisth)
-  | [LinkedIn](https://www.linkedin.com/in/lokeshkavisth)
-  | [YouTube](https://www.youtube.com/@kavisthlokesh)
 
 ## License
 
