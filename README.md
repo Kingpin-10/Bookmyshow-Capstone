@@ -115,4 +115,4 @@ The BookMyShow project is licensed under the MIT License. You can find the licen
 
 ---
 
-Thank you for using BookMyShow! If you have any questions or need further assistance, feel free to contact us or open an issue in the repository. Happy movie booking!
+Thank you for using BookMyShow! If you have any questions or need further assistance, feel free to contact me or open an issue in the repository. Happy movie booking!
